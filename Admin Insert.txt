@@ -1,0 +1,1 @@
+INSERT INTO admins (username, password, phone_number) VALUES ('admin_username', 'admin_password', 'admin_phone_number');
